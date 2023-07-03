@@ -1,2 +1,0 @@
-#Hi i'm trying using Git
-#hello world
